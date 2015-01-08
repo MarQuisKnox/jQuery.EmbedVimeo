@@ -7,7 +7,7 @@ Parts of this code are heavily borrowed from <a href="https://raw.githubusercont
 <br>
 Usage:
 ```JavaScript
-$(target).embedVimeo();
+$(selector).embedVimeo();
 ```
 <br>
 License:&nbsp;&nbsp;Public Domain
