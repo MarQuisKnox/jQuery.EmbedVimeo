@@ -1,7 +1,6 @@
 # jQuery.EmbedVimeo
 
 This jQuery plugin converts Vimeo URLs to embedded videos.
-
 Parts of this code are heavily borrowed from <a href="https://raw.githubusercontent.com/kvz/phpjs/master/functions/strings/str_replace.js" target="_blank">php.js</a> & <a href="https://github.com/AnSavvides/jquery.linky" target="_blank">https://github.com/AnSavvides/jquery.linky</a>
 <br>
 <br>
