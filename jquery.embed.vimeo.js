@@ -136,7 +136,7 @@
     }
     
 
-    // Embed any YouTube URLs that are 
+    // Embed any Vimeo URLs that are 
     // not already embedded
     function _embedUrls( matches, $el, options ) {
     	
